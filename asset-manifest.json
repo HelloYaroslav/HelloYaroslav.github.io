@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f02f951.chunk.css",
+    "main.js": "/static/js/main.cb136f56.chunk.js",
+    "main.js.map": "/static/js/main.cb136f56.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a351475d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a351475d.js.map",
+    "static/css/2.4c6ee7a4.chunk.css": "/static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.414dde09.chunk.js": "/static/js/2.414dde09.chunk.js",
+    "static/js/2.414dde09.chunk.js.map": "/static/js/2.414dde09.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cb3c8e9e04dad68710c30c20d5e2529b.js": "/precache-manifest.cb3c8e9e04dad68710c30c20d5e2529b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4c6ee7a4.chunk.css.map": "/static/css/2.4c6ee7a4.chunk.css.map",
+    "static/css/main.3f02f951.chunk.css.map": "/static/css/main.3f02f951.chunk.css.map",
+    "static/js/2.414dde09.chunk.js.LICENSE.txt": "/static/js/2.414dde09.chunk.js.LICENSE.txt",
+    "static/media/benderBoldItalic.otf": "/static/media/benderBoldItalic.d998cee4.otf",
+    "static/media/manager.png": "/static/media/manager.c07bd65f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a351475d.js",
+    "static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.414dde09.chunk.js",
+    "static/css/main.3f02f951.chunk.css",
+    "static/js/main.cb136f56.chunk.js"
+  ]
+}
